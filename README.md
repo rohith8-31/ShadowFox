@@ -1,5 +1,4 @@
-# ShadowFox
-
+ShadowFox Python Internship - Tasks Completion Report
 📝 Task Descriptions
 1️⃣ Variables
 Created and explored variables in Python.
@@ -40,7 +39,9 @@ Age
 Gender
 Super Power
 Weapon
-Added methods to display Avenger details and check if the Avenger is a team leader.
+Added methods to:
+Display Avenger details.
+Check if the Avenger is a team leader.
 7️⃣ Web Scraper (Intermediate Task)
 Developed a web scraper using BeautifulSoup.
 Extracted data (titles, links, etc.) from a website.
